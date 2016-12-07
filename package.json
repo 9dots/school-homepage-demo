@@ -16,8 +16,8 @@
     "metalsmith-permalinks": "^0.5.0",
     "metalsmith-react-templates": "^4.0.0",
     "metalsmith-watch": "^1.0.3",
-    "react": "^0.14.7",
-    "react-dom": "^0.14.7",
+    "react": "0.14.7",
+    "react-dom": "0.14.7",
     "react-tap-event-plugin": "1.0.0"
   },
   "scripts": {
