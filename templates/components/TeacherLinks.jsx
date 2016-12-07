@@ -13,7 +13,8 @@ export default class TeacherLinks extends React.Component {
 					<li>2nd Grade</li>
 					<li>3rd Grade</li>
 					<li>4th Grade</li>
-					<li>5th Grade</li>				
+					<li>5th Grade</li>
+					<li>6th Grade</li>		
 				</ul>
 			</div>
 		)
